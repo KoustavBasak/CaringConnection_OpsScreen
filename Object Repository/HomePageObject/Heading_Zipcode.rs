@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Heading_Zipcode</name>
+   <tag></tag>
+   <elementGuidId>e0d80ccb-0093-4bdc-bf4f-2cabfb83ded6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/table/thead/tr/th[5]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>82126d17-fbc2-4650-954e-fbfc229f94dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zipcode</value>
+      <webElementGuid>dfcb5a56-f5d4-476c-b5c1-618fa90e2563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[@class=&quot;body-side--container  wrapper&quot;]/div[@class=&quot;body-main--container&quot;]/div[@class=&quot;tableContainer-outer-container&quot;]/table[@class=&quot;table-responsive-sm mt-4 table-container responsiveTable&quot;]/thead[@class=&quot;table-header&quot;]/tr[@class=&quot;col&quot;]/th[@class=&quot;p-0  table-head--width&quot;]/div[@class=&quot;table-thead-container row m-0&quot;]/div[@class=&quot;col-md-auto p-0 mx-2&quot;]/span[1]</value>
+      <webElementGuid>7a0aa355-1b7b-495e-a41d-2883551b2983</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/table/thead/tr/th[5]/div/div/span</value>
+      <webElementGuid>f5da8518-9950-4a31-8582-440910486d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>a78b3990-ad71-4156-a066-4d80c5fb6ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::span[2]</value>
+      <webElementGuid>aa6e03f4-b5ca-47b7-ab6a-60459568e338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability'])[1]/preceding::span[1]</value>
+      <webElementGuid>7280c0d1-d01f-42c3-8ee4-f33c9ed7d252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hourly Rate'])[1]/preceding::span[2]</value>
+      <webElementGuid>a3addf02-5346-4dec-9560-02cfa715d9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zipcode']/parent::*</value>
+      <webElementGuid>5b5d7024-763b-4388-a425-8bb4618e07b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/div/div/span</value>
+      <webElementGuid>8c8e993b-8dd3-4b14-97ed-18a09e9811db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Zipcode' or . = 'Zipcode')]</value>
+      <webElementGuid>3fd6d212-474f-4a57-ad28-8f50aebc7cb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

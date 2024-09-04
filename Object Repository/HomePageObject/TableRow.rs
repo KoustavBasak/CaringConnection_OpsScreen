@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TableRow</name>
+   <tag></tag>
+   <elementGuidId>1a30a0e3-95f6-42a7-b374-28af17104d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/table/tbody/tr</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.table-head--width.frozen-column.text-wrap.pivoted.box-shadow-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>91e03447-d676-48b1-9ecb-9f5e76f40600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>073382d3-40ac-426b-9bc8-8843d6009d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-head--width frozen-column text-wrap pivoted box-shadow-none</value>
+      <webElementGuid>bd92d4fc-1b13-4c6f-9096-29b30478f703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-heading</name>
+      <type>Main</type>
+      <value>Member Name</value>
+      <webElementGuid>8e70d4a2-f0ce-4bcb-a258-1f7869860f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M Mark Waltor</value>
+      <webElementGuid>d64eaa29-cd84-4446-a10b-fb65a2dc3e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[@class=&quot;body-side--container  wrapper&quot;]/div[@class=&quot;body-main--container&quot;]/div[@class=&quot;tableContainer-outer-container&quot;]/table[@class=&quot;table-responsive-sm mt-4 table-container responsiveTable&quot;]/tbody[@class=&quot;table-body&quot;]/tr[@class=&quot;col&quot;]/td[@class=&quot;table-head--width frozen-column text-wrap pivoted box-shadow-none&quot;]</value>
+      <webElementGuid>a7411c43-2552-4364-a210-b3b019b7a539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/table/tbody/tr</value>
+      <webElementGuid>8b1a8694-1d7c-4aba-a982-c76006693bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre Categorization'])[1]/following::td[1]</value>
+      <webElementGuid>0278ee63-c2a3-4c8e-979d-819ea47e4505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match CC ID'])[1]/following::td[1]</value>
+      <webElementGuid>a629efa5-2fcc-4d6b-baff-b96b588e7ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>3fa7154b-2404-414d-8e02-498100393481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'M Mark Waltor' or . = 'M Mark Waltor')]</value>
+      <webElementGuid>dc08be9e-9a41-4d7a-9f90-5735554de775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

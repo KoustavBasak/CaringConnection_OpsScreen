@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_017_VerifyTheHorizantalScrollBarFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34840947-3cf8-4b81-9cc0-7f68f4b00846</testCaseGuid>
+</TestCaseEntity>

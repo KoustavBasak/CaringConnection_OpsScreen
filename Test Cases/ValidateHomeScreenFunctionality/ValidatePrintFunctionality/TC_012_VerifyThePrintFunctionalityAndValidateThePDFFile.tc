@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_012_VerifyThePrintFunctionalityAndValidateThePDFFile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66f9a456-ec77-4d2e-a81f-5bf61577b1c0</testCaseGuid>
+</TestCaseEntity>

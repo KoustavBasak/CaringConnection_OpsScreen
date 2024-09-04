@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>67aee273-7e76-4d15-8ccc-3e7e1c7fb791</testSuiteGuid>
+   <testCaseLink>
+      <guid>72b52c7e-fb16-4f7b-8c3d-a69833aef367</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ValidateLoginScreenFunctionality/TC_001_VerifyLoginFunctionality</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>355ee3d9-08a8-4f1a-8644-3320a109de8f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>355ee3d9-08a8-4f1a-8644-3320a109de8f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>uname</value>
+         <variableId>8f76b52d-06fb-4e9e-b87d-fe4eb106bcd8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>355ee3d9-08a8-4f1a-8644-3320a109de8f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>8e24e7c8-eb9c-4234-8a16-22ead2eb85c9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

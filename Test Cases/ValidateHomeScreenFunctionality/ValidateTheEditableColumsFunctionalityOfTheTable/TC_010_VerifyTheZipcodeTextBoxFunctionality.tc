@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010_VerifyTheZipcodeTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af99e397-bc8f-4975-a88e-f7eb5985d965</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba656f5a-7bf4-4d96-9ff0-01e7aeb529f9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Busy\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>ba656f5a-7bf4-4d96-9ff0-01e7aeb529f9</id>
+      <masked>false</masked>
+      <name>Availability</name>
+   </variable>
+</TestCaseEntity>

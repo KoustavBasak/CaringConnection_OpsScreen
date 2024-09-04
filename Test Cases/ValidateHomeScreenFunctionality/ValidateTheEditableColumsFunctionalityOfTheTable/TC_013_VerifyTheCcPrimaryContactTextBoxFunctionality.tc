@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_013_VerifyTheCcPrimaryContactTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63760b8b-8736-4145-ba6c-ff55d1245e39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57e8c0cc-cd1a-41be-b3f7-da746ea0575f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ram\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>57e8c0cc-cd1a-41be-b3f7-da746ea0575f</id>
+      <masked>false</masked>
+      <name>ccPrimaryContact</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006_VerifyTheMemberNameTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8817546c-0c04-4afd-93da-69a67c557b41</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc9f46f8-1871-4431-af52-155c506b65cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'som\r\n'</defaultValue>
+      <description></description>
+      <id>bc9f46f8-1871-4431-af52-155c506b65cd</id>
+      <masked>false</masked>
+      <name>memberNmae</name>
+   </variable>
+</TestCaseEntity>

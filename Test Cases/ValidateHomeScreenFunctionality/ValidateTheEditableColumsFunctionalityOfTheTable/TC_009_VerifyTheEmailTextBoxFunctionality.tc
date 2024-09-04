@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009_VerifyTheEmailTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb475773-ec4d-41ac-a0a1-687cbe0b9943</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6733abd-1f8e-4081-b9d2-939df8326113</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test@test.com'</defaultValue>
+      <description></description>
+      <id>a6733abd-1f8e-4081-b9d2-939df8326113</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

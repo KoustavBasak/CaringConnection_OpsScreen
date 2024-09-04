@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014_VerifyThePreCategorizationFunctionalityForPDF</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b95b7b4-a8a4-40cb-8e30-606be61846e4</testCaseGuid>
+</TestCaseEntity>

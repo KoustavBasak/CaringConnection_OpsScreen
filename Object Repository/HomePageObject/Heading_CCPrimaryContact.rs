@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Heading_CCPrimaryContact</name>
+   <tag></tag>
+   <elementGuidId>e5b9f69d-1a29-4762-b7d0-f58a4765f285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/table/thead/tr/th[11]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eca2baba-9484-47e4-b43e-64b982f9881d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CC Primary Contact</value>
+      <webElementGuid>32a72f8f-0fc3-45d4-9afd-6524ccc99fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[@class=&quot;body-side--container  wrapper&quot;]/div[@class=&quot;body-main--container&quot;]/div[@class=&quot;tableContainer-outer-container&quot;]/table[@class=&quot;table-responsive-sm mt-4 table-container responsiveTable&quot;]/thead[@class=&quot;table-header&quot;]/tr[@class=&quot;col&quot;]/th[@class=&quot;p-0 table-head--width&quot;]/div[@class=&quot;table-thead-container row m-0&quot;]/div[@class=&quot;col-md-auto p-0 mx-2&quot;]/span[1]</value>
+      <webElementGuid>2892b9fd-2c0c-48ad-ab48-d47dc66feb7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/table/thead/tr/th[11]/div/div/span</value>
+      <webElementGuid>dac11073-7d66-4a98-a84d-adcb76f5b111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent NPS'])[1]/following::span[1]</value>
+      <webElementGuid>ce558ef6-46af-4219-a808-d78a7dc77135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Score'])[1]/following::span[2]</value>
+      <webElementGuid>9506068f-8578-499f-9265-698d2ec32a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Modified Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>0154c036-88d2-4ac1-9f4d-981c29482e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CC ID'])[1]/preceding::span[2]</value>
+      <webElementGuid>9c27231b-1767-4e92-8dd7-29b410c482aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CC Primary Contact']/parent::*</value>
+      <webElementGuid>4516ac67-a052-4c6a-a1b4-0032c8f69824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[11]/div/div/span</value>
+      <webElementGuid>eca51b23-7051-40b4-aa62-94b3c8400144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CC Primary Contact' or . = 'CC Primary Contact')]</value>
+      <webElementGuid>22062921-f748-4027-9a61-2b0bf7385f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_VerifyTheRoleTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d5e5dfe-90fa-4f15-b9d1-12e334a96604</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c03ff6d8-3b9e-42ed-841c-5fb1c7399b0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'senior'</defaultValue>
+      <description></description>
+      <id>c03ff6d8-3b9e-42ed-841c-5fb1c7399b0f</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

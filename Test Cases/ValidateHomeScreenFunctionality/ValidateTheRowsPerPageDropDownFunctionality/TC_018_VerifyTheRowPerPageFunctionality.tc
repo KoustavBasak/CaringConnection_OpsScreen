@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_018_VerifyTheRowPerPageFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09e7d37b-3832-4bae-8d57-55b0a5104f20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b01ad4e-50f2-441d-bde8-4d758eec7ed7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>0b01ad4e-50f2-441d-bde8-4d758eec7ed7</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+</TestCaseEntity>

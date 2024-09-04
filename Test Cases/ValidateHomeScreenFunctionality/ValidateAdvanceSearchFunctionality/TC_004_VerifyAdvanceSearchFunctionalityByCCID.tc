@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_VerifyAdvanceSearchFunctionalityByCCID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61cc3db3-c42b-462a-90c6-2931b74b2351</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f851c13c-1baf-4ff6-ace6-788d1c24ef0e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CC 3019'</defaultValue>
+      <description></description>
+      <id>f851c13c-1baf-4ff6-ace6-788d1c24ef0e</id>
+      <masked>false</masked>
+      <name>ccId</name>
+   </variable>
+</TestCaseEntity>

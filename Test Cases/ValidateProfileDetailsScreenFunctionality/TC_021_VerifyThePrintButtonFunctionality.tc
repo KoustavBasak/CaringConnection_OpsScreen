@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_021_VerifyThePrintButtonFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc66c30a-4b46-47ca-a9fc-12776bf8ab16</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53394bd6-7415-4560-bbf3-472f028fe780</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>53394bd6-7415-4560-bbf3-472f028fe780</id>
+      <masked>false</masked>
+      <name>rowNo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20_VerifyAfterClickingTheDataItsNavigateToThePersonalDetailScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>600cedf2-4fee-4a4b-b808-c0ed448014e3</testCaseGuid>
+</TestCaseEntity>

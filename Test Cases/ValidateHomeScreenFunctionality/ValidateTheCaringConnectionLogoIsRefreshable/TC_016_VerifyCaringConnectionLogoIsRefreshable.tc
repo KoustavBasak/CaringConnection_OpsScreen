@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_016_VerifyCaringConnectionLogoIsRefreshable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eebe3775-a7b3-46a5-845e-ec1483e47625</testCaseGuid>
+</TestCaseEntity>

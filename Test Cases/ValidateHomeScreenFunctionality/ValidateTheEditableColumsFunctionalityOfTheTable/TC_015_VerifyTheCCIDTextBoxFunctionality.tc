@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_015_VerifyTheCCIDTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4cf002e-45c8-4d02-b6d0-37264646ea44</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7009b44e-c3c4-43a7-aa51-8f73e1e2b0d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cc 3031\r\n'</defaultValue>
+      <description></description>
+      <id>7009b44e-c3c4-43a7-aa51-8f73e1e2b0d0</id>
+      <masked>false</masked>
+      <name>CCID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_VerifyTheAvailabilityTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ce9d3bd-3b0b-476d-8dd8-3ac5f62c4e72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01674633-2c45-4871-ae67-f773a1dcb335</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'700054\r\n'</defaultValue>
+      <description></description>
+      <id>01674633-2c45-4871-ae67-f773a1dcb335</id>
+      <masked>false</masked>
+      <name>zipcode</name>
+   </variable>
+</TestCaseEntity>

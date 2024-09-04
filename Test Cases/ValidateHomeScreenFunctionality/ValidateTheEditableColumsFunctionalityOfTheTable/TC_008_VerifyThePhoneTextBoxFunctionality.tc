@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_VerifyThePhoneTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0b820b0-70e5-4ca7-82f5-4fc18b9d7529</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba6d4ae1-bfee-477a-b5b6-9c9114d08956</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'234-345-7899\r\n'</defaultValue>
+      <description></description>
+      <id>ba6d4ae1-bfee-477a-b5b6-9c9114d08956</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

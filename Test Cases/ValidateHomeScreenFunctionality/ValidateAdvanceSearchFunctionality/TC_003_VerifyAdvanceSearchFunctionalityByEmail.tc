@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_VerifyAdvanceSearchFunctionalityByEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de3678a6-ad29-4604-a767-7cc9022e56d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc5e79a1-3a76-433e-92dd-d62fc997f05e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test@test3.com'</defaultValue>
+      <description></description>
+      <id>cc5e79a1-3a76-433e-92dd-d62fc997f05e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

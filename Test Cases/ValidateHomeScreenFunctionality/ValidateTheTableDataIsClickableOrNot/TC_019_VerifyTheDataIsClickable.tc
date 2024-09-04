@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_019_VerifyTheDataIsClickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8eb10ee-a1a3-448b-81ed-06c2073c65b4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_VerifyAdvanceSearchFunctionalityByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67350439-09a5-489b-8083-7f455070ce75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de164ccc-1502-4734-8cbc-11ffe14411ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'koustav'</defaultValue>
+      <description></description>
+      <id>de164ccc-1502-4734-8cbc-11ffe14411ff</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
