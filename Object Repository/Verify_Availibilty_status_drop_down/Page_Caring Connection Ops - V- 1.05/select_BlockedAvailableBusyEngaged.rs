@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BlockedAvailableBusyEngaged</name>
+   <tag></tag>
+   <elementGuidId>d831d909-504a-4343-bee6-4c2c94e4ef5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.status-available&#xd;
+.mt-3.tab-content > div:nth-of-type(1) .status-engaged</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[5]/div/div/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>70e5893d-2f12-456d-a584-69c044aac584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-available</value>
+      <webElementGuid>c341ee79-a10a-418c-801f-4b8a7381b3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BlockedAvailableBusyEngaged</value>
+      <webElementGuid>1f5178a3-a58d-4ea5-a1f4-767699caf1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;outer--tab--container&quot;]/div[@class=&quot;inner-tab--container&quot;]/div[@class=&quot;member-details-container&quot;]/div[@class=&quot;tab-content mt-3&quot;]/div[@class=&quot;profile-details&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;dropdown-container&quot;]/select[@class=&quot;status-available&quot;]</value>
+      <webElementGuid>3eb2da89-04c0-4805-9b81-6bbcbf5feffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[5]/div/div/div[2]/select</value>
+      <webElementGuid>13990696-ec01-46a3-8432-38ac0f22d3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability Status'])[1]/following::select[1]</value>
+      <webElementGuid>8c279fca-738a-4ed1-94f8-0ad84d226272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match Details'])[1]/following::select[1]</value>
+      <webElementGuid>53071f53-8f6b-4b07-8b4d-4ab5227cb727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education and Professional Background'])[1]/preceding::select[1]</value>
+      <webElementGuid>110f0e0f-57ae-4bbb-9924-82bfd2fc49be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Family and Community Involvement'])[1]/preceding::select[1]</value>
+      <webElementGuid>6e3c05d8-2145-461a-beb9-0626e1ef5e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9d9e9aec-ebe9-4f88-a931-c178a79c117f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'BlockedAvailableBusyEngaged' or . = 'BlockedAvailableBusyEngaged')]</value>
+      <webElementGuid>76c28645-3a1c-4ba9-aa88-0d51c031f681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

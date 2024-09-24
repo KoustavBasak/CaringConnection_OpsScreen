@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Palak</name>
+   <tag></tag>
+   <elementGuidId>24c3250e-f6f8-49d1-b27a-5af7801892d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.p-0.my-2.regular-table-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/table/tbody/tr/td/div[2]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6b07eead-cafc-40c1-b83a-bb3c2d7e0573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-0 my-2 regular-table-text</value>
+      <webElementGuid>6eef606a-8025-4708-b9cf-ce76e1fb5968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Palak</value>
+      <webElementGuid>b274e306-6bd8-43ee-bc51-a2ac414e096f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[@class=&quot;body-side--container  wrapper&quot;]/div[@class=&quot;body-main--container&quot;]/div[@class=&quot;tableContainer-outer-container&quot;]/table[@class=&quot;table-responsive-sm mt-4 table-container responsiveTable&quot;]/tbody[@class=&quot;table-body&quot;]/tr[@class=&quot;col&quot;]/td[@class=&quot;table-head--width frozen-column text-wrap pivoted box-shadow-none&quot;]/div[@class=&quot;row justify-content-center undefined&quot;]/div[@class=&quot;col-8 p-0&quot;]/p[@class=&quot;p-0 my-2 regular-table-text&quot;]</value>
+      <webElementGuid>e5aca4e4-c854-483f-bf4e-7fca96fe0724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/table/tbody/tr/td/div[2]/div[2]/p</value>
+      <webElementGuid>0e3f45c1-fd2d-42f1-947d-de041468b628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[1]/following::p[1]</value>
+      <webElementGuid>ce3ebaa9-e1e4-40c8-9f54-6233b843861a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre Categorization'])[1]/following::p[1]</value>
+      <webElementGuid>e75baa3b-fbdf-410f-8316-346735b9469b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senior'])[1]/preceding::p[1]</value>
+      <webElementGuid>0135590d-c636-4a48-9dcb-073c7fb763bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>73ccfcac-5910-49ba-8c28-4dfe09ef1467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>e93ff63e-7133-4e5d-9e9f-2db443704910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Palak' or . = ' Palak')]</value>
+      <webElementGuid>0a2a2ff2-a643-4bf6-850d-71d9ce42ec66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

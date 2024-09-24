@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_023_VerifyEducationAndProfessionalBackgroundTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba17ac2d-b5bb-44d5-98be-775a1a0004e9</testCaseGuid>
+</TestCaseEntity>

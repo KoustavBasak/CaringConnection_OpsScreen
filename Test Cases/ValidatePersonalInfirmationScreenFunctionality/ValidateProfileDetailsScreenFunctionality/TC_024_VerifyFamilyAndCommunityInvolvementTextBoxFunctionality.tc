@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_024_VerifyFamilyAndCommunityInvolvementTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c1641e5-b8c0-4b8d-b6f1-de9af86dec91</testCaseGuid>
+</TestCaseEntity>

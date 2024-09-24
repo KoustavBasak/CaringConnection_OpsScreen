@@ -20,5 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('ValidateLoginScreenFunctionality/TC_001_VerifyLoginFunctionality'), [('uname') : '', ('pass') : ''], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('HomePageObject/dropDown_RowperPage'), row, true)
+WebUI.executeJavaScript('window.scrollTo(0, document.body.scrollHeight);', null)
+
+WebUI.scrollToElement(findTestObject('HomePageObject/New Test Object'), 10)
+
+WebUI.verifyTextPresent('Rows Per Page', false)
 

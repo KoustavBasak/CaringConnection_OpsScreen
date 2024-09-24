@@ -6,12 +6,12 @@
    <UUID>f883c2e5-b0f8-444b-9a56-74e5463bcfec</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.5.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\KoustavBasak\git\CaringConnection_OpsScreen\CaringConnection_OpsScreen.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\ShankhadwipTalukdar\git\CaringConnection_OpsScreen\CaringConnection_OpsScreen.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

@@ -20,5 +20,23 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('ValidateLoginScreenFunctionality/TC_001_VerifyLoginFunctionality'), [('uname') : '', ('pass') : ''], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('HomePageObject/dropDown_RowperPage'), row, true)
+WebUI.setText(findTestObject('HomePageObject/input_Search_input-tableSearch--style'), name)
+
+WebUI.click(findTestObject('HomePageObject/button_Search'))
+
+WebUI.click(findTestObject('HomePageObject/SelectJohnDoe'))
+
+WebUI.setText(findTestObject('PersonalInformationPageObject/Education_and_Professional_Background'), 'Graduated in Computer Science, currently a Software Engineer with 5 years of experience in app development.')
+
+WebUI.setText(findTestObject('PersonalInformationPageObject/Family_and_Community_Involvement'), 'Actively participates in local community service and enjoys spending time with family.')
+
+WebUI.setText(findTestObject('PersonalInformationPageObject/Hobbies'), 'Loves hiking, photography, and exploring new technologies.')
+
+WebUI.setText(findTestObject('PersonalInformationPageObject/Expectations'), 'Looking for meaningful connections and shared interests.')
+
+WebUI.setText(findTestObject('PersonalInformationPageObject/Other_Information'), 'Avid traveler with a passion for lifelong learning.')
+
+WebUI.click(findTestObject('PersonalInformationPageObject/UpdateProfile/Page_Caring Connection Ops - V- 1.05/button_Save'))
+
+WebUI.click(findTestObject('PersonalInformationPageObject/UpdateProfile/Page_Caring Connection Ops - V- 1.05/button_Save'))
 

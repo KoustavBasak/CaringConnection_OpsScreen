@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_027_VerifyOtherInformationTextBoxFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87ca84d9-0b97-4d0d-b577-a743580b54ca</testCaseGuid>
+</TestCaseEntity>

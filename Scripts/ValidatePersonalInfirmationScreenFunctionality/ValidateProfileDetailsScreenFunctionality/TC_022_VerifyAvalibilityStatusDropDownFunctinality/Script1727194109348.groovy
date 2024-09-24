@@ -20,5 +20,17 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('ValidateLoginScreenFunctionality/TC_001_VerifyLoginFunctionality'), [('uname') : '', ('pass') : ''], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('HomePageObject/dropDown_RowperPage'), row, true)
+WebUI.click(findTestObject('Object Repository/Verify_Availibilty_status_drop_down/Page_Caring Connection Ops - V- 1.05/p_Palak'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Verify_Availibilty_status_drop_down/Page_Caring Connection Ops - V- 1.05/select_BlockedAvailableBusyEngaged'), 
+    Blocked, true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Verify_Availibilty_status_drop_down/Page_Caring Connection Ops - V- 1.05/select_BlockedAvailableBusyEngaged'), 
+    Available, true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Verify_Availibilty_status_drop_down/Page_Caring Connection Ops - V- 1.05/select_BlockedAvailableBusyEngaged'), 
+    Busy, true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Verify_Availibilty_status_drop_down/Page_Caring Connection Ops - V- 1.05/select_BlockedAvailableBusyEngaged'), 
+    Engaged, true)
 
